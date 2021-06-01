@@ -8,6 +8,8 @@ main:
     url: /research/
   - title: "Painting"
     url: /painting/
+  - title: "Cooking"
+    url: /cooking/
 # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
